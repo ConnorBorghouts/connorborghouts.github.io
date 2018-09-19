@@ -1,0 +1,42 @@
+body {
+	background-color: darkgrey
+}
+.imgLeft {
+	float: left;
+	border-style: solid;
+	margin: 20px;
+	border-width: 3px;
+	height: 250px;
+    width: 250px;
+}
+
+
+.title1 {
+	text-align: center;
+	color: lightgrey;
+}
+.text1 {
+	text-align: center;
+	color: lightgrey;
+}
+.taskBar {
+
+}
+div 
+
+a:link, a:visited {
+    color: white;
+}
+
+a:hover, a:active {
+    background-color: black;
+    color: white;
+}
+ul 
+.taskBar {
+	float:left;
+}
+</style>
+</head>
+<body>
+
